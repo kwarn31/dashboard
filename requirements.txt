@@ -1,0 +1,5 @@
+# this a requirements file 
+# these are the libraries needed 
+pandas 
+steamlit 
+plotly 
